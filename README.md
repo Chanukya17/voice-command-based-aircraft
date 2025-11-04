@@ -1,2 +1,3 @@
-# satellite-object-tracker
-A deep learning project using YOLO and OpenCV to detect satellites in images. It identifies and localizes satellites with bounding boxes, enabling accurate real-time detection for space research, monitoring, and tracking applications.
+This project uses NLP on NASA ASRS aviation incident reports to classify the root cause (pilot error, maintenance, weather, communication etc.).
+Model is trained using Python + BERT (HuggingFace) to understand free-text reports.
+Goal: automate incident analysis and improve aviation safety insights.
